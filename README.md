@@ -3,6 +3,7 @@
 * [Course Syllabus](syllabus-phys220-2016f.pdf)
 * [Primary Textbook](https://hplgit.github.io/scipro-primer/)
     * [Chapter Slides](http://hplgit.github.io/scipro-primer/slides/index.html)
+* [Secondary Textbook](http://hplgit.github.io/prog4comp/doc/pub/._p4c-bootstrap-Python002.html)
 * [GitHub Developer Pack](https://education.github.com/pack)
 * Bash Resources:
     * [Linux/Bash Tutorial](http://ryanstutorials.net/linuxtutorial)
@@ -12,6 +13,7 @@
 * Git Resources:
     * [The Git Parable](http://tom.preston-werner.com/2009/05/19/the-git-parable.html)
     * [tryGit Tutorial](https://try.github.io/levels/1/challenges/1)
+    * [Quick Intro to Git](http://hplgit.github.io/teamods/bitgit/Langtangen_github.html)
     * [Learn Git in Y Minutes](https://learnxinyminutes.com/docs/git/)
     * [Git Tutorial](http://git-scm.com/docs/gittutorial)
     * [Git User Manual](http://git-scm.com/docs/user-manual.html)
