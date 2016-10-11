@@ -1,15 +1,13 @@
 #     Python Style Guide
 
 Simplified version for beginner programmers by John Magee based on
-[http://www.python.org/dev/peps/pep-0008](Style Guide for Python Code).
+[Style Guide for Python Code](http://www.python.org/dev/peps/pep-0008).
 
 ##  Introduction
 
 This simplified style guide is intended to help beginner Python progammers adhere to basic coding conventions. Properly styled computer code is more easily read and understood by humans. You may revisit code you write later, or you may work on code with other people in the future. It's important that your code is easily understood by yourself and others.
 
-This guide is a simplified version of *Style Guide for Python Code* by Guido van Rossum and Barry Warsaw. The original document has been placed in the public domain by the authors and is available here:
-[http://www.python.org/dev/peps/pep-0008]().
-
+This guide is a simplified version of *Style Guide for Python Code* by Guido van Rossum and Barry Warsaw. 
 
 ## Consistency
 
